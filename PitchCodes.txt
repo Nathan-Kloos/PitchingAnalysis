@@ -1,0 +1,16 @@
+CH: Changeup
+CU: Curveball
+EP: Eephus pitch (a rare, slow, looping pitch)
+FC: Cut fastball (also known as a cutter)
+FF: Four-seam fastball
+FO: Forkball
+FS: Split-finger fastball
+FT: Two-seam fastball (also called a sinker)
+IN: Intentional ball (not a pitch type, but indicates an intentional walk)
+KC: Knuckle-curve
+KN: Knuckleball
+PO: Pitchout (used to prevent a stolen base)
+SC: Screwball
+SI: Sinker (similar to a two-seam fastball)
+SL: Slider
+UN: Unknown (when the pitch type cannot be determined)
